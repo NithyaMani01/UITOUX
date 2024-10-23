@@ -1,0 +1,80 @@
+.body {
+    background-color: #2e2e2e
+}
+
+.header {
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.paragraph {
+    color: aliceblue;
+    font-size: 12px;
+    /* font-weight: bold; */
+
+}
+
+.container {
+    column-gap: 13%;
+}
+
+.subHeader {
+    color: #939393;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.subHeaderWithOutCap {
+    color: #939393;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.textAlignment {
+    text-align: 'start'
+}
+
+.orderList {
+    color: #939393;
+    font-size: 12px;
+    list-style: none;
+    padding: 0;
+    font-weight: bold;
+
+}
+
+.button {
+    font-size: 12px !important;
+    color: antiquewhite !important;
+    background-color: #3fb980 !important;
+    text-transform: none !important;
+}
+
+.searchText .MuiInputBase-input {
+    font-size: 12px !important;
+    color: #939393;
+    background-color: #606060;
+}
+
+.secondDiv {
+    background-color: black;
+    /* padding: 0 5% 0 5% */
+}
+
+.baseGrid {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    padding: 0 5% 0 5%;
+    column-gap: 38% !important;
+}
+
+.spanHighlight {
+    color: aliceblue;
+    font-size: 12px;
+    font-weight: bold;
+
+}

@@ -1,0 +1,40 @@
+.mainDiv1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 12px;
+    color: #726f6f;
+    font-weight: 600;
+}
+
+.mainDiv2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 12px;
+    margin-bottom: 1%;
+}
+
+.menuItem {
+    font-size: 12px;
+}
+
+.header1 {
+    display: flex;
+    gap: 2%;
+    width: 50%;
+}
+
+.header2 {
+    display: flex;
+    gap: 2%;
+    width: 50%;
+    justify-content: end;
+}
+
+.logo {
+    width: 80%;
+    /* height: 4%; */
+}

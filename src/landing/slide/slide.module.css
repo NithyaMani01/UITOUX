@@ -1,0 +1,52 @@
+.mainDiv {
+    display: flex;
+    padding: 20;
+    align-items: center;
+}
+
+.offerSpan {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Helvetica;
+    color: #2f2f2f;
+    background-color: yellow;
+}
+
+.heading {
+    font-size: 34px;
+    font-weight: 600;
+    font-family: Helvetica;
+    color: #2f2f2f;
+}
+
+.subHeading {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Helvetica;
+    color: #808080;
+}
+
+.button {
+    background-color: #00C86F;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+.floatingContent {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+    width: 60%;
+    max-width: 350px;
+    padding: 20px;
+}
